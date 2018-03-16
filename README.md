@@ -28,7 +28,9 @@ c++ -o closest_smaller Set.cpp
 Given:
 
 > 5
+>
 > 10 15 1 5 21
+>
 > 19
 
 will return:
